@@ -1,0 +1,6 @@
+it add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/orange4200/ggfora00.git
+git push -u origin main
+gjgssss0
